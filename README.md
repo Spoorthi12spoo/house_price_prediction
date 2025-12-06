@@ -21,8 +21,8 @@ Python, Pandas, Scikit-Learn (train_test_split, LinearRegression, mean_squared_e
 
 ## How to Run
 
- *pip install pandas scikit-learn
- *python model.py
+ * pip install pandas scikit-learn
+ * python model.py
 
 ## 5. Results
 
