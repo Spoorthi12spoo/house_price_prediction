@@ -19,7 +19,7 @@ Python, Pandas, Scikit-Learn (train_test_split, LinearRegression, mean_squared_e
 * Evaluated the model using Mean Squared Error (MSE) and Root Mean Squared Error (RMSE)
 * Predicted house prices on test data
 
-## How to Run
+## 4. How to Run
 
  * pip install pandas scikit-learn
  * python model.py
